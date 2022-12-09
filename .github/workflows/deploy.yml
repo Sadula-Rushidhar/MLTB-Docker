@@ -27,4 +27,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: anshumanpm2006/mltb:latest
+          tags: rushidhar/file-store:stable
